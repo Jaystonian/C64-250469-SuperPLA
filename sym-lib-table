@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name C64CPLA-rescue)(type Legacy)(uri ${KIPRJMOD}/C64CPLA-rescue.lib)(options "")(descr ""))
+)
